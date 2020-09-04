@@ -1,2 +1,2 @@
 # repositorio1
- Primeiro repositório versionado do curso de Git e GitHub!
+ Primeiro repositório versionado feito no curso de Git e GitHub!
