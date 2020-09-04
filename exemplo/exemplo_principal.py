@@ -9,4 +9,12 @@ def vParalelepipedo(l, a, p):
     volume = l*a*p
     return volume
 
-print(vParalelepipedo(2,2,2))
+def atParalelepipedo(l,a,p):
+    '''
+    Calculo da área d superfície total do paralelpipedo
+    l=largurs
+    a=altura
+    p=profundidade
+    '''
+    at = (2*(l*a))+(2*(a*p))+(2*(p*l))
+    return at
